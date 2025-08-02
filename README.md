@@ -15,3 +15,5 @@ What's left to the user (not supported):
 - Custom Bounty
 - Cover Image
 - More tags (contextual, positions)
+
+Tested on Firefox with Tampermonkey.
